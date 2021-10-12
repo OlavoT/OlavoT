@@ -15,7 +15,7 @@
 
 💡 Projetos em que estou trabalhando:
 - Internet das coisas (Internet of things - IOT) com esp32
-- Automações com Arduino, RastberryPi
+- Automações com Arduino, Raspberry Pi
 
 📖 Materiais de Cursos que estou realizando
 - 🌱 Estou aprendendo mais sobre Fortran
