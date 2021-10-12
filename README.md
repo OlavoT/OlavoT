@@ -1,15 +1,48 @@
 ### 👋 Olá! Sou Olavo,
-- 🔭 Estou trabalhando com automações com Arduino
-- 🌱 Estou aprendendo mais sobre C++
+😄 Pronomes: ele/dele
+## Minhas Formações
+
+🔬 Mestrando em Engenharia Metalurgica e de Materiais pela UFRJ 
+
+🔧 Aluno do Técnico em Eletrônica pelo Cefet-RJ (Maracanã - RJ)
+
+⛓ Aluno do curso de Soldador mecânico pela Firjan (Maracanã - RJ)
+
+🛠 Mecânico aeronaltico pela EAPAC (Ilha do Governador - RJ)
+
+
+##  Você encontrará neste Git...
+
+💡 Projetos em que estou trabalhando:
+- Internet das coisas (Internet of things - IOT) com esp32
+- Automações com Arduino, RastberryPi
+
+📖 Materiais de Cursos que estou realizando
+- 🌱 Estou aprendendo mais sobre Fortran
+
+🔌 Circuitos de Eletrônica 
+- Digital 
+- Analógica
+
+🌐 Projetos Front-end 
+- sites em Js HTML CSS
+
+⚙ Projetos Back-end 
+- Python
+- C++
+
+---
+
 - 🤔 Preciso de ajuda com ... 
 - 💬 Me pergunte sobre engenharia de materiais
-- 😄 Pronomess: ele/dele
 - ⚡ Fato engraçado: marco muitas coisas para o mesmo horario
+
+## Estatísticas no Git...
 
 <div align="center">
   <a href="https://github.com/OlavoT">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlavoT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlavoT&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=OlavoT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlavoT&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -27,9 +60,9 @@
   
   
   
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="OTN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="OTN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="OTN-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="OTN-Ardu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="OTN-Labv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg">
@@ -41,7 +74,11 @@
 </div>
   
   ##
- 
+  
+<div>
+Você pode me encontrar em diversas redes sociais:
+</div>  
+  
 <div> 
   <a href="https://www.youtube.com/channel/UCY6lXv3Wz4-46EPCbWSk1-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/olavo_tn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -68,4 +105,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+🤖 Software Bots (geralmente em node.js)
+
+🎮 Jogos para PC (e futuramente Mobile)
 -->
