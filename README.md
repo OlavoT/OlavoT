@@ -37,7 +37,7 @@
   <img align="center" alt="OTN-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/897178338416807939/897178440682311731/download20211001141456.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/897178338416807936/897178338416807939/897545657009709056">
 </div>
   
   ##
