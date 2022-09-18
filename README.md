@@ -2,11 +2,11 @@
 😄 Pronomes: ele/dele
 ## Minhas Formações
 
-🔬 Mestrando em Engenharia Metalurgica e de Materiais pela UFRJ 
+🔬 Mestre em Engenharia Metalúrgica e de Materiais pela UFRJ 
 
-🔧 Aluno do Técnico em Eletrônica pelo Cefet-RJ (Maracanã - RJ)
+🔧 Técnico em Eletrônica pelo Cefet-RJ (Maracanã - RJ)
 
-⛓ Aluno do curso de Soldador mecânico pela Firjan (Maracanã - RJ)
+⛓ Soldador mecânico pela Firjan (Maracanã - RJ)
 
 🛠 Mecânico aeronaltico pela EAPAC (Ilha do Governador - RJ)
 
